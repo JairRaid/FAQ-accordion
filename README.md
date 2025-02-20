@@ -55,3 +55,5 @@ I learned to change the marker of the summary tag.
 
 ## Author
 
+- email: rakotonirainyriija@gmail.com
+- facebook: https://web.facebook.com/jair.rakoto.3/
