@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/JairRaid/FAQ-accordion/blob/main/README.md
+- Solution URL: https://github.com/JairRaid/FAQ-accordion
 - Live Site URL: https://jairraid.github.io/FAQ-accordion/
 
 ## My process
